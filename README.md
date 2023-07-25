@@ -1,7 +1,6 @@
- # 💫 About Me:
-Hi, I'm Iori
+# 👋 Hey there
 
-I'm a self-taught developer and i'm a full stack web developer who love to work with new technologies
+My name is Iori and i'm a self-taught full stack web developer. As a tech enthusiast in website development, I strive to create intuitive, attractive and responsive user experiences through a combination of good design, powerful functionality and optimal performance in the frontend and scalable and secure infrastructure on the backend.
 
 
 # 💻 Tech Stack:
